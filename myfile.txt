@@ -1,4 +1,4 @@
-This file for made for the GitHub workshop. Making a change online using GitHub.
+This file for made for the GitHub workshop. Making a change online using GitHub. i changed the fiel in github
 
 Commands we used:
  git clone <url>
